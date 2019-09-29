@@ -1,2 +1,2 @@
 ## Binary Tree Sort
-Sort an array of numbers and sort using a binary tree
+Implement a binary tree (also known as btree) sorting algorithm to sort an array of integers 
